@@ -1,0 +1,38 @@
+{
+    "theme_color": "#da585d",
+    "background_color": "#da585d",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Bubbly List",
+    "short_name": "Bubbly List",
+    "description": "Bubbly List is a list for your needs. It's a simple way to find your favorite servers, bots, avatars, templates on discord.",
+    "icons": [
+        {
+            "src": "/favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
